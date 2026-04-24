@@ -46,3 +46,12 @@ This project implements a 4-servo robotic hand controlled wirelessly using MQTT 
 - Add gesture control (glove/IMU)
 - Add feedback sensors
 - Mobile app interface
+
+## Demo & Resources
+
+- 🎥 Demonstration Video  
+- 📊 Presentation Slides  
+- 📄 Project Documents  
+
+Access all files here:  
+👉 https://drive.google.com/drive/folders/1whoozLBYLV4UELsts1uAZSLfFE4VfzJN
