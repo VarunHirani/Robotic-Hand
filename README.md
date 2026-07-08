@@ -53,5 +53,15 @@ This project implements a 4-servo robotic hand controlled wirelessly using MQTT 
 - 📊 Presentation Slides  
 - 📄 Project Documents  
 
+## 👤 Author
+
+Varun Hirani
+Electrical Engineering, IIT Goa
+📧 [hirani.varun@gmail.com](mailto:hirani.varun@gmail.com)
+
+Kamal Assudani
+Electrical Engineering, IIT Goa
+📧 [kamal.assudani.23063@iitgoa.ac.in](mailto:kamal.assudani.23063@iitgoa.ac.in)
+
 Access all files here:  
 👉 https://drive.google.com/drive/folders/1whoozLBYLV4UELsts1uAZSLfFE4VfzJN
